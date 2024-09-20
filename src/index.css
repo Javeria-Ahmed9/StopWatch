@@ -61,14 +61,19 @@ button {
     height: 250px;
     width: 250px;
     margin-top: 210px;
-    font-size: 19px ;
   }
   button {
     height: 20px;
     width: 40px;
+    margin-top: 9px;
     border-radius: 5px;
   }
   header{
     margin-top: 25px;
+    font-size: 25px;
+  }
+  p {
+    font-size: 34px;
+    margin-top: -6px;
   }
 }
