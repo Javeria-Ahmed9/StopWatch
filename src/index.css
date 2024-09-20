@@ -60,7 +60,8 @@ button {
   #two{
     height: 250px;
     width: 250px;
-    margin-top: 208px;
+    margin-top: 210px;
+    font-size: 19px ;
   }
   button {
     height: 20px;
